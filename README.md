@@ -45,6 +45,7 @@ Este repositório contém um **Dashboard interativo desenvolvido no Microsoft Ex
 ---
 
 ## 👨‍💻 Desenvolvedor
+DashboardExcel-Curso-Excel2026-09-0213-12-31-ezgif.com-video-to-gif-converter.gif
 
 **Matheus Flávio**  
 *Desenvolvido como projeto prático de consolidacao de conhecimentos em inteligência de dados e dashboards no Excel.*
